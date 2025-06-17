@@ -32,19 +32,19 @@ Results-driven software engineer with hands-on experience in full-stack developm
 - ~2cm MAE accuracy using TensorFlow.js, MnasNet, Remix, Prisma
 - **Tech Stack:** TensorFlow.js, React, Prisma, Computer Vision
 
-#### 🤖 **DetectT** - Pose Detection Web App
+#### 🤖 **[DetectT](https://github.com/Collaboration95/DetectT)** - Pose Detection Web App
 - Real-time human pose detection using TensorFlow.js
 - Custom pose classification with Teachable Machine
 - Web Workers for ML model optimization
 - **Tech Stack:** TensorFlow.js, Canvas API, Firebase
 
 
-#### 🚗 **FindMyCar** - Smart Parking System
+#### 🚗 **[FindMyCar](https://github.com/Collaboration95/FindMyCar_50.046)** - Smart Parking System
 - IoT-based parking management with license plate recognition
 - Real-time data streaming dashboard
 - **Tech Stack:** Raspberry Pi, AWS Lambda, React, WebSockets, MongoDB
 
-#### 💪 **HealthMate** - Fitness Tracking App
+#### 💪 **[HealthMate](https://github.com/Collaboration95/HealthMate)** - Fitness Tracking App
 - Comprehensive fitness app with calorie tracking
 - Google Fitness API integration
 - **Tech Stack:** Java, Firebase, Android Development
