@@ -1,19 +1,106 @@
 <h1 align="center">Hi 👋, I'm Guru</h1>
-<h3 align="center">Aspiring Fullstack Developer | Experienced with React , C/C++ and Python | UG @ SUTD CS</h3>
+<h3 align="center">💼 Software Engineer | Computer Science & Design @ Singapore University of Technology and Design (SUTD) Graduated May 2025 </h3>
 
-- 🔭 I’m currently working on **a computervision based clothes-fitting app**
+### 💼 About Me
+Results-driven software engineer with hands-on experience in full-stack development, AI/ML, and IoT systems. Passionate about building scalable solutions and leveraging cutting-edge technologies to solve real-world problems. Currently seeking entry-level software engineering opportunities.
 
-- 🌱 I’m currently learning **Go and Next.js**
+### 🏆 Recent Achievements
+- **🥇 Winner - DesignAI @ InspireCon 2025** for Fitback (AI-Powered Size Recommendation System)
+- **🎖️ Award presented by President Tharman**
+- **💼 9+ months of industry experience** as Software Engineer Intern at Primech A&P
 
-- I need help with **a movie recommendation app based on your vibes**
+---
 
-- 👨‍💻 All of my projects are available at [https://guruprasathgopal.vercel.app/](https://guruprasathgopal.vercel.app/)
+### 🛠️ Technical Skills
 
-- 💬 Ask me about **React , graphql and aws**
+**Languages:** JavaScript, TypeScript, Python, Java, C++, Go  
+**Frontend:** React, Next.js, HTML/CSS, TailwindCSS, TypeScript  
+**Backend:** Node.js, Express, Python, PHP, GraphQL, RESTful APIs  
+**Databases:** MongoDB, MySQL, Firebase, Prisma  
+**Cloud & DevOps:** AWS (S3, Lambda, Textract), Oracle Cloud, Git, Agile  
+**AI/ML:** TensorFlow.js, MoveNet, PoseNet, Computer Vision  
+**IoT:** Raspberry Pi, MQTT, Sensor Integration  
 
-- 📫 How to reach me **guruprasath3200@gmail.com**
+---
 
-- ⚡ My hobbies **Bouldering and listening to movie soundtracks**
+### 🌟 Featured Projects
+
+#### 🎯 **Fitback** - AI-Powered Size Recommendation System
+- **Award-winning project** at InspireCon 2025
+- Shopify-integrated solution reducing returns using AI-powered sizing
+- Real-time pose detection with MoveNet + PoseNet
+- ~2cm MAE accuracy using TensorFlow.js, MnasNet, Remix, Prisma
+- **Tech Stack:** TensorFlow.js, React, Prisma, Computer Vision
+
+#### 🤖 **DetectT** - Pose Detection Web App
+- Real-time human pose detection using TensorFlow.js
+- Custom pose classification with Teachable Machine
+- Web Workers for ML model optimization
+- **Tech Stack:** TensorFlow.js, Canvas API, Firebase
+
+
+#### 🚗 **FindMyCar** - Smart Parking System
+- IoT-based parking management with license plate recognition
+- Real-time data streaming dashboard
+- **Tech Stack:** Raspberry Pi, AWS Lambda, React, WebSockets, MongoDB
+
+#### 💪 **HealthMate** - Fitness Tracking App
+- Comprehensive fitness app with calorie tracking
+- Google Fitness API integration
+- **Tech Stack:** Java, Firebase, Android Development
+---
+
+### 💼 Professional Experience
+
+**Software Engineer Intern** | Primech A&P Pte Ltd | *Apr 2024 - Sep 2024*
+- Designed custom personnel management system using PHP
+- Enhanced project sustainability through comprehensive documentation
+- Collaborated in R&D department on enterprise solutions
+
+**Robotics Engineer Intern** | Primech A&P Pte Ltd | *Aug 2023 - Jan 2024*
+- Optimized CRUD-based RESTful APIs with JWT authentication
+- Debugged cloud-hosted backend services (Oracle Service Cloud)
+- Integrated real-time robot task monitoring features
+
+**Teaching Assistant** | SUTD | *Nov 2021 - Jan 2022*
+- Facilitated Python programming instruction
+- Mentored students on coursework and projects
+- Coordinated IoT lab setup with Raspberry Pi
+
+---
+
+### 🎯 What I'm Up To
+
+- 🔭 **Currently working on:** Computer vision-based clothes-fitting applications
+- 🌱 **Learning:** Advanced Go programming and Next.js frameworks
+- 🎬 **Side project:** Building a movie recommendation system based on user vibes
+- 💡 **Interests:** AI/ML applications, full-stack development, IoT solutions
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Collaboration95&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Collaboration95&layout=compact&theme=radical)
+
+---
+
+### 🤝 Let's Connect!
+
+- 💼 **Portfolio:** [guruprasathgopal.vercel.app](https://guruprasathgopal.vercel.app/)
+- 💌 **Email:** guruprasath3200@gmail.com
+- 🔗 **LinkedIn:** [linkedin.com/in/guruprasath3200](https://www.linkedin.com/in/guruprasath3200/)
+---
+
+### 💬 Ask Me About
+- Full-stack development with React and Node.js
+- GraphQL API design and implementation
+- AWS cloud services and deployment
+- Computer vision and AI/ML applications
+- IoT system development
+---
+
+*"Passionate about building innovative solutions that make a difference. Always eager to learn, collaborate, and contribute to impactful projects!"*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
