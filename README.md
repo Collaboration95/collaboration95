@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **guruprasath3200@gmail.com**
 
-- ⚡ My hobbies **Powerlifting and listening to movie soundtracks**
+- ⚡ My hobbies **Bouldering and listening to movie soundtracks**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
