@@ -25,7 +25,7 @@ Results-driven software engineer with hands-on experience in full-stack developm
 
 ### 🌟 Featured Projects
 
-#### 🎯 **Fitback** - AI-Powered Size Recommendation System
+#### 🎯 **[Fitback](https://www.businesstimes.com.sg/events-awards/design-ai-tech-awards/design-ai-and-tech-awards/design-ai-next-stage-ai-evolution)** - AI-Powered Size Recommendation System
 - **Award-winning project** at InspireCon 2025
 - Shopify-integrated solution reducing returns using AI-powered sizing
 - Real-time pose detection with MoveNet + PoseNet
