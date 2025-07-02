@@ -64,6 +64,14 @@ Results-driven software engineer with hands-on experience in full-stack developm
 - Cross-platform compatibility with automated build system (Windows/Linux)
 - Persistent data management for high scores and game states with custom file I/O
 - **Tech Stack:** C, SDL2, Cross-platform Development, Systems Programming
+- 
+
+#### ☀️ **[Solar Panel Sun Tracker](https://github.com/Collaboration95/Solar_Sun_Tracker)** - Automated Solar Efficiency System
+- Dual-axis solar panel tracking system using light-dependent resistors for sun positioning
+- Servo motor control with Arduino for real-time solar panel orientation optimization
+- 3D-printed mechanical components for portable camping and outdoor applications
+- Improves solar panel efficiency through automated sun tracking throughout the day
+- **Tech Stack:** Arduino, Servo Motors, LDR Sensors, 3D Printing, C++
 
 ---
 
