@@ -32,22 +32,39 @@ Results-driven software engineer with hands-on experience in full-stack developm
 - ~2cm MAE accuracy using TensorFlow.js, MnasNet, Remix, Prisma
 - **Tech Stack:** TensorFlow.js, React, Prisma, Computer Vision
 
-#### 🤖 **[DetectT](https://github.com/Collaboration95/DetectT)** - Pose Detection Web App
+
+#### 🎬 **[Movie Booking System](github.com/Collaboration95/Movie_Booking_Backend_Chubby-Raft)** - Distributed Seat Reservation
+
+- Fault-tolerant distributed system implementing Raft consensus algorithm
+- Multi-server cluster with automatic leader election and failover
+- Real-time seat booking with conflict resolution and session management
+- **Tech Stack:** Go, Raft Algorithm, RPC, Distributed Systems
+
+#### 🤖 **[DetectT](github.com/Collaboration95/DetectT)** - Pose Detection Web App
 - Real-time human pose detection using TensorFlow.js
 - Custom pose classification with Teachable Machine
 - Web Workers for ML model optimization
 - **Tech Stack:** TensorFlow.js, Canvas API, Firebase
 
 
-#### 🚗 **[FindMyCar](https://github.com/Collaboration95/FindMyCar_50.046)** - Smart Parking System
+#### 🚗 **[FindMyCar](github.com/Collaboration95/FindMyCar_50.046)** - Smart Parking System
 - IoT-based parking management with license plate recognition
 - Real-time data streaming dashboard
 - **Tech Stack:** Raspberry Pi, AWS Lambda, React, WebSockets, MongoDB
 
-#### 💪 **[HealthMate](https://github.com/Collaboration95/HealthMate)** - Fitness Tracking App
+#### 💪 **[HealthMate](github.com/Collaboration95/HealthMate)** - Fitness Tracking App
 - Comprehensive fitness app with calorie tracking
 - Google Fitness API integration
 - **Tech Stack:** Java, Firebase, Android Development
+
+
+#### 🎮 **[Breakout](github.com/Collaboration95/Breakout_C)** - Classic Arcade Game Recreation
+- **Complete game engine** built from scratch in C with SDL2 multimedia framework
+- Advanced collision detection, physics-based ball mechanics, and state machine architecture
+- Cross-platform compatibility with automated build system (Windows/Linux)
+- Persistent data management for high scores and game states with custom file I/O
+- **Tech Stack:** C, SDL2, Cross-platform Development, Systems Programming
+
 ---
 
 ### 💼 Professional Experience
