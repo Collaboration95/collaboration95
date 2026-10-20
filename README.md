@@ -46,7 +46,13 @@ For **ResearchAgent**, our team kept coming back to three questions: is it worth
 
 <a href="assets/research-plan.jpg"><img src="assets/research-plan.jpg" width="230" alt="Step 1: ResearchAgent asks a question and sets a spending budget."></a> <a href="assets/research-proof.jpg"><img src="assets/research-proof.jpg" width="230" alt="Step 2: the answer view shows passages, sources and a proof-check trail."></a> <a href="assets/research-receipt.jpg"><img src="assets/research-receipt.jpg" width="230" alt="Step 3: an itemised testnet receipt records the evidence purchase."></a>
 
-SingHacks finalist, built with my team. Fictional articles and XRPL Testnet, with challenges and refunds in the demo. The Cloud Run deployment has been retired; the walkthrough is still there.
+SingHacks finalist, built with my team. On **10 October 2026**, I took ResearchAgent to the **main stage at AI Tinkerers Singapore**. The live demo ran on Google Cloud Run and placed among the **top three Cloud Run demos**, earning US$100 in cloud credits.
+
+<a href="https://guruprasathgopal.vercel.app/journal/researchagent-main-stage"><img src="assets/researchagent-main-stage.webp" width="720" alt="ResearchAgent’s answer and spending budget projected beside a presenter at the Singtel podium during AI Tinkerers Singapore."></a>
+
+<sub>Photo: event attendee, via the <a href="https://singapore.aitinkerers.org/meetup/mu_oOS3ivaBeO4/gallery?page=2">AI Tinkerers Singapore event gallery</a>. <a href="https://collaboration95.github.io/theFastandtheFungible/slides/">The slides from the talk →</a></sub>
+
+Fictional articles and XRPL Testnet, with challenges and refunds in the demo. The Cloud Run deployment has been retired; the walkthrough is still there.
 
 [Follow the walkthrough →](https://github.com/Collaboration95/theFastandtheFungible#readme)
 
