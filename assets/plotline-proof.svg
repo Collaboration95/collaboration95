@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="360" viewBox="0 0 1080 360" role="img" aria-labelledby="title desc">
+  <title id="title">Plotline: keep the decision, check the answer</title>
+  <desc id="desc">744,732 cells were compared for each of eudr-screen.v1 and eudr-decision.v1. Original versus derived and original versus store both had zero mismatches, within the pinned region, inputs and rules.</desc>
+  <rect width="1080" height="360" rx="18" fill="#f3f4eb"/>
+  <g font-family="Arial, sans-serif" fill="#203c32">
+    <text x="44" y="50" font-size="18" letter-spacing="2">PLOTLINE / RETAINED PROOF</text>
+    <text x="44" y="108" font-size="37" font-weight="700">Keep the decision. Check the answer.</text>
+    <path d="M44 137H1036" stroke="#c6d0c0"/>
+    <text x="44" y="198" font-size="46" font-weight="700">744,732</text>
+    <text x="44" y="230" font-size="21">cells checked per contract</text>
+    <text x="557" y="198" font-size="46" font-weight="700">0 mismatches</text>
+    <text x="557" y="230" font-size="21">original → derived / stored</text>
+    <text x="44" y="283" font-size="18">eudr-screen.v1 + eudr-decision.v1</text>
+    <text x="44" y="319" font-size="17" fill="#4a6257">Scope: pinned region, input versions and written rules · not a legal compliance finding</text>
+  </g>
+</svg>

@@ -1,134 +1,79 @@
-<h1 align="center">Hi 👋, I'm Guru</h1>
-<h3 align="center">💼 Software Engineer | Computer Science & Design @ Singapore University of Technology and Design (SUTD) Graduated May 2025 </h3>
+# Hey, I'm Guru.
 
-### 💼 About Me
-Results-driven software engineer with hands-on experience in full-stack development, AI/ML, and IoT systems. Passionate about building scalable solutions and leveraging cutting-edge technologies to solve real-world problems. Currently seeking entry-level software engineering opportunities.
+I build things in Singapore. Some start with a small annoyance on my Mac. Others start in a room full of people, with a deadline and an idea I hadn't planned for.
 
-### 🏆 Recent Achievements
-- **🥇 Winner - DesignAI @ InspireCon 2025** for Fitback (AI-Powered Size Recommendation System)
-- **🎖️ Award presented by President Tharman**
-- **💼 9+ months of industry experience** as Software Engineer Intern at Primech A&P
+[My website](https://guruprasathgopal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/guruprasath3200/) · [Say hello](mailto:guruprasath3200@gmail.com)
 
----
+Here are a few things I've been making. *Shelf rearranged October 2026.*
 
-### 🛠️ Technical Skills
+## A room that builds itself
 
-**Languages:** JavaScript, TypeScript, Python, Java, C++, Go  
-**Frontend:** React, Next.js, HTML/CSS, TailwindCSS, TypeScript  
-**Backend:** Node.js, Express, Python, PHP, GraphQL, RESTful APIs  
-**Databases:** MongoDB, MySQL, Firebase, Prisma  
-**Cloud & DevOps:** AWS (S3, Lambda, Textract), Oracle Cloud, Git, Agile  
-**AI/ML:** TensorFlow.js, MoveNet, PoseNet, Computer Vision  
-**IoT:** Raspberry Pi, MQTT, Sensor Integration  
+<a href="https://github.com/Collaboration95/common-grounds-makeathon"><img src="assets/commons-room.webp" width="720" alt="The Commons: a cartoon of the makeathon room, with a kopi cup, otters and other wished-for creatures walking among the tables."></a>
 
----
+At 10:01, the organisers started explaining the makeathon. By 10:04, I'd dropped all ten ideas I'd prepared.
 
-### 🌟 Featured Projects
+I ended up building **The Commons**: scan a QR code, wish for a creature, and watch it walk into a cartoon of the room you're sitting in. The agent writes its behaviour, tests it, fixes its bugs and draws it. Solo build; **Best Use of Tech** at Common Grounds.
 
-#### 🎯 **[Fitback](https://www.businesstimes.com.sg/events-awards/design-ai-tech-awards/design-ai-and-tech-awards/design-ai-next-stage-ai-evolution)** - AI-Powered Size Recommendation System
-- **Award-winning project** at InspireCon 2025
-- Shopify-integrated solution reducing returns using AI-powered sizing
-- Real-time pose detection with MoveNet + PoseNet
-- ~2cm MAE accuracy using TensorFlow.js, MnasNet, Remix, Prisma
-- **Tech Stack:** TensorFlow.js, React, Prisma, Computer Vision
+[The build and how it works →](https://github.com/Collaboration95/common-grounds-makeathon)
 
+## My desktop used to be a graveyard of screenshots
 
-#### 🎬 **[Movie Booking System](https://github.com/Collaboration95/Movie_Booking_Backend_Chubby-Raft)** - Distributed Seat Reservation
+Hundreds of little mysteries I had to open one by one. So I made **Screenshot Declutterer**.
 
-- Fault-tolerant distributed system implementing Raft consensus algorithm
-- Multi-server cluster with automatic leader election and failover
-- Real-time seat booking with conflict resolution and session management
-- **Tech Stack:** Go, Raft Algorithm, RPC, Distributed Systems
+**Before:** a batch waiting for review. **After:** five queued for Trash, with Undo still there. These are synthetic demo screenshots; click either to look closer.
 
-#### 🤖 **[DetectT](https://github.com/Collaboration95/DetectT)** - Pose Detection Web App
-- Real-time human pose detection using TensorFlow.js
-- Custom pose classification with Teachable Machine
-- Web Workers for ML model optimization
-- **Tech Stack:** TensorFlow.js, Canvas API, Firebase
+<a href="assets/declutter-before.png"><img src="assets/declutter-before.png" width="350" alt="Before: the local screenshot board has 21 unsorted screenshots and a batch of five selected for review."></a> <a href="assets/declutter-after.png"><img src="assets/declutter-after.png" width="350" alt="After reviewing the batch: five screenshots are queued for Trash, sixteen remain unsorted, and Undo and Clean up 5 are available."></a>
 
+Keep, rename, compare similar images, change your mind. Nothing goes to macOS Trash until you confirm. Optional naming runs on the Mac too.
 
-#### 🚗 **[FindMyCar](https://github.com/Collaboration95/FindMyCar_50.046)** - Smart Parking System
-- IoT-based parking management with license plate recognition
-- Real-time data streaming dashboard
-- **Tech Stack:** Raspberry Pi, AWS Lambda, React, WebSockets, MongoDB
+[Run it locally →](https://github.com/Collaboration95/screenshot-declutterer)
 
-#### 💪 **[HealthMate](https://github.com/Collaboration95/HealthMate)** - Fitness Tracking App
-- Comprehensive fitness app with calorie tracking
-- Google Fitness API integration
-- **Tech Stack:** Java, Firebase, Android Development
+## How much of a map do you actually need?
 
+**Plotline** keeps what a forest-map screening rule needs, then checks that the smaller representation gives the same answers.
 
-#### 🎮 **[Breakout](https://github.com/Collaboration95/Breakout_C)** - Classic Arcade Game Recreation
-- **Complete game engine** built from scratch in C with SDL2 multimedia framework
-- Advanced collision detection, physics-based ball mechanics, and state machine architecture
-- Cross-platform compatibility with automated build system (Windows/Linux)
-- Persistent data management for high scores and game states with custom file I/O
-- **Tech Stack:** C, SDL2, Cross-platform Development, Systems Programming
-- 
+<a href="https://github.com/Collaboration95/hr-2026/blob/main/artifacts/decision/proof-v1.json"><img src="assets/plotline-proof.svg" width="720" alt="Plotline retained proof: 744,732 cells checked for each of two screening contracts, with zero mismatches between original layers and the compact representation. Scope: the pinned region, input versions and written rules."></a>
 
-#### ☀️ **[Solar Panel Sun Tracker](https://github.com/Collaboration95/Solar_Sun_Tracker)** - Automated Solar Efficiency System
-- Dual-axis solar panel tracking system using light-dependent resistors for sun positioning
-- Servo motor control with Arduino for real-time solar panel orientation optimization
-- 3D-printed mechanical components for portable camping and outdoor applications
-- Improves solar panel efficiency through automated sun tracking throughout the day
-- **Tech Stack:** Arduino, Servo Motors, LDR Sensors, 3D Printing, C++
+**744,732 cells per contract. Zero mismatches.** A bounded hackathon experiment, with the rule and retained evidence open to inspection.
+
+[Read the experiment](https://github.com/Collaboration95/hr-2026) · [Inspect the proof](https://github.com/Collaboration95/hr-2026/blob/main/artifacts/decision/proof-v1.json)
+
+## An agent bought an article. Now what?
+
+For **ResearchAgent**, our team kept coming back to three questions: is it worth buying, did the right evidence arrive, and can someone follow what happened?
+
+**1. Set a budget → 2. Check the evidence → 3. Keep the receipt.**
+
+<a href="assets/research-plan.jpg"><img src="assets/research-plan.jpg" width="230" alt="Step 1: ResearchAgent asks a question and sets a spending budget."></a> <a href="assets/research-proof.jpg"><img src="assets/research-proof.jpg" width="230" alt="Step 2: the answer view shows passages, sources and a proof-check trail."></a> <a href="assets/research-receipt.jpg"><img src="assets/research-receipt.jpg" width="230" alt="Step 3: an itemised testnet receipt records the evidence purchase."></a>
+
+SingHacks finalist, built with my team. Fictional articles and XRPL Testnet, with challenges and refunds in the demo. The Cloud Run deployment has been retired; the walkthrough is still there.
+
+[Follow the walkthrough →](https://github.com/Collaboration95/theFastandtheFungible#readme)
+
+## Two tabs I keep around
+
+**[yald](https://github.com/Collaboration95/yald)** started because I wanted to know where my coding-agent tokens were going. Now it's a tab that's always open. Read-only local reports; the cost chart estimates API prices, not my subscription bill. Public preview.
+
+Then there's **[talktoit](https://github.com/Collaboration95/talktoit)**, for asking questions of an Apple Health export. The interesting bit turned out to be the importer: one recorded M1 benchmark went from about 26 minutes to 9.77 seconds. [The measurement, without anyone's health records.](https://gist.github.com/Collaboration95/f5f5f7414e04cb5c75e2d2e4274b3bcb)
+
+## Earlier, I was teaching a camera where to look
+
+<a href="https://github.com/Collaboration95/DetectT"><img src="assets/fitback-camera.webp" width="560" alt="DetectT's public prototype shows the camera feed beside a mirrored view with pose landmarks overlaid."></a>
+
+**Fitback** was our capstone team's two-photo sizing project. The public **DetectT** prototype shows the pose-guidance and capture part; getting two model runtimes to cooperate meant isolating the older runtime in a worker.
+
+Our team took [first place in Design AI at InspireCon 2025](https://www.sutd.edu.sg/media-releases-listing/sutd-students-partner-top-firms-including-loreal-db-schenker-changi-airport-group-in-first-inspirecon-showcase/). [Here's the camera code.](https://github.com/Collaboration95/DetectT)
+
+## A couple of older saves
+
+<a href="https://github.com/Collaboration95/Sushi-Shakedown"><img src="assets/sushi-shakedown.webp" width="350" alt="Sushi Shakedown: a pixel-art sushi counter with waiting customers and ingredients to prepare."></a> <a href="https://github.com/Collaboration95/Breakout_C"><img src="assets/breakout-menu.webp" width="350" alt="Our Breakout game's brick-framed menu, with quick game, load game, high score and settings buttons."></a>
+
+Sushi orders on one side, bouncing bricks on the other. **[Sushi Shakedown](https://github.com/Collaboration95/Sushi-Shakedown)** is a team Unity game ([upstream](https://github.com/jaga991/Sushi-Shakedown)); I worked on backgrounds and NPCs. **[Breakout](https://github.com/Collaboration95/Breakout_C)** is an earlier team course project in C and SDL2. Saves, scores, sound, and a lot of bouncing.
 
 ---
 
-### 💼 Professional Experience
+There are other threads too: **[Rewind](https://github.com/Collaboration95/rewind-app)**, our group time-capsule prototype; **[FlickPond](https://github.com/Collaboration95/dc2)**, our course team's video pipeline; and **[uno-dos-tres](https://github.com/Collaboration95/uno-dos-tres)**, a phone camera reading Uno cards.
 
-**Software Engineer Intern** | Primech A&P Pte Ltd | *Apr 2024 - Sep 2024*
-- Designed custom personnel management system using PHP
-- Enhanced project sustainability through comprehensive documentation
-- Collaborated in R&D department on enterprise solutions
+Further along the trail: [provenance-aware permissions with the MandateFlow team](https://github.com/tradaokamsa/MandateFlow), [Handoff's evidence-to-invoice experiment](https://github.com/Collaboration95/handoff), [StyleMind's fashion conversations](https://github.com/Collaboration95/stylemind), [a Raspberry Pi looking for parked cars](https://github.com/Collaboration95/FindMyCar_50.046), and [an educational Raft-style booking simulation](https://github.com/Collaboration95/Movie_Booking_Backend_Chubby-Raft).
 
-**Robotics Engineer Intern** | Primech A&P Pte Ltd | *Aug 2023 - Jan 2024*
-- Optimized CRUD-based RESTful APIs with JWT authentication
-- Debugged cloud-hosted backend services (Oracle Service Cloud)
-- Integrated real-time robot task monitoring features
-
-**Teaching Assistant** | SUTD | *Nov 2021 - Jan 2022*
-- Facilitated Python programming instruction
-- Mentored students on coursework and projects
-- Coordinated IoT lab setup with Raspberry Pi
-
----
-
-### 🎯 What I'm Up To
-
-- 🔭 **Currently working on:** Computer vision-based clothes-fitting applications
-- 🌱 **Learning:** Advanced Go programming and Next.js frameworks
-- 🎬 **Side project:** Building a movie recommendation system based on user vibes
-- 💡 **Interests:** AI/ML applications, full-stack development, IoT solutions
-
----
-
-### 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Collaboration95&layout=compact&theme=radical)
----
-
-### 🤝 Let's Connect!
-
-- 💼 **Portfolio:** [guruprasathgopal.vercel.app](https://guruprasathgopal.vercel.app/)
-- 💌 **Email:** guruprasath3200@gmail.com
-- 🔗 **LinkedIn:** [linkedin.com/in/guruprasath3200](https://www.linkedin.com/in/guruprasath3200/)
----
-
-### 💬 Ask Me About
-- Full-stack development with React and Node.js
-- GraphQL API design and implementation
-- AWS cloud services and deployment
-- Computer vision and AI/ML applications
-- IoT system development
----
-
-*"Passionate about building innovative solutions that make a difference. Always eager to learn, collaborate, and contribute to impactful projects!"*
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/guruprasath3200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guruprasath3200" height="30" width="40" /></a>
-<a href="https://instagram.com/guruprasath3200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guruprasath3200" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<sub>Project screenshots, not stock art. <a href="ASSET_SOURCES.md">Image sources and context</a>.</sub>
