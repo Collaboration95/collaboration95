@@ -1,3 +1,13 @@
+# Presentation follow-up — 20 October 2026
+
+ResearchAgent now includes Guru’s main-stage presentation at AI Tinkerers Singapore
+on 10 October, the separate top-three Cloud Run demo distinction, a genuine event
+photo with gallery credit, and retained slides. The website article provides the
+full account. All eleven referenced images and repository-relative links resolve;
+images total 906,272 bytes. The prior review edition’s evidence is retained below.
+
+---
+
 # Profile review notes
 
 Review edition, 20 October 2026, on `codex/personal-project-shelf`. The main profile changes only after this branch is merged. No remote profile settings, descriptions, homepages or pins were changed.

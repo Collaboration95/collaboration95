@@ -89,3 +89,10 @@ The `exhaustive_cell_proof` entries for `eudr-screen.v1` and `eudr-decision.v1` 
 The Commons timing anecdote and screenshot-cleaner wording are adapted from Guru's final published posts, inspected in the separate portfolio research. ResearchAgent is credited to the team and described as a finalist/testnet demo; its own README records the removed Cloud Run deployment. yald's public-preview and list-price limits remain visible. The talktoit importer timing links directly to the public benchmark.
 
 [Official SUTD InspireCon release](https://www.sutd.edu.sg/media-releases-listing/sutd-students-partner-top-firms-including-loreal-db-schenker-changi-airport-group-in-first-inspirecon-showcase/) supports the Fitback team's first place in Design AI, 14 April 2025. No accuracy, reduced-return, or commercial-adoption claim is carried over from the old profile.
+
+
+## ResearchAgent presentation addition
+
+`assets/researchagent-main-stage.webp` is an authentic photo from the [AI Tinkerers Singapore 10 October 2026 gallery](https://singapore.aitinkerers.org/meetup/mu_oOS3ivaBeO4/gallery?page=2), credited there to Event attendee. [Original image](https://images.aitinkerers.org/blog_images/img-8343-jpeg-d9PM.jpg). The visible ResearchAgent screen establishes the project context. Resized proportionally from 5712 × 3213 to 1600 × 900; WebP quality 83; metadata removed; no crop or generated content. Gallery attribution appears in the README. No specific reuse license is asserted.
+
+Size: 212,858 bytes. SHA-256: `bb2818ff3242f99f0cb9f15c39b2e5be142cf61ae589bc6fe3e9a0e191fbd357`.
